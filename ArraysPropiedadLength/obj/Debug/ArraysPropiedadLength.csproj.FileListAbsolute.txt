@@ -1,0 +1,6 @@
+/Users/marcohuerta/Projects/ArraysPropiedadLength/ArraysPropiedadLength/bin/Debug/ArraysPropiedadLength.exe
+/Users/marcohuerta/Projects/ArraysPropiedadLength/ArraysPropiedadLength/bin/Debug/ArraysPropiedadLength.pdb
+/Users/marcohuerta/Projects/ArraysPropiedadLength/ArraysPropiedadLength/obj/Debug/ArraysPropiedadLength.csproj.AssemblyReference.cache
+/Users/marcohuerta/Projects/ArraysPropiedadLength/ArraysPropiedadLength/obj/Debug/ArraysPropiedadLength.csproj.CoreCompileInputs.cache
+/Users/marcohuerta/Projects/ArraysPropiedadLength/ArraysPropiedadLength/obj/Debug/ArraysPropiedadLength.exe
+/Users/marcohuerta/Projects/ArraysPropiedadLength/ArraysPropiedadLength/obj/Debug/ArraysPropiedadLength.pdb
