@@ -7,7 +7,7 @@ namespace ArraysPropiedadLength
         public static void Main(string[] args)
         {
             //Primera manera de crear arrays
-            int[] calificaciones = new int[5];
+            /*int[] calificaciones = new int[5];
 
             calificaciones[0] = 10;
             calificaciones[1] = 9;
@@ -26,6 +26,21 @@ namespace ArraysPropiedadLength
             int[] faltasAlColegio = new int[] { 1, 2, 3, 4, 5, 6};
 
             Console.WriteLine("El array faltaAlColegio tiene {0} casos", faltasAlColegio.Length);
+            Console.Read();*/
+
+            int[] nums = new int[10];
+
+            for(int i = 0; i < 10; i++)
+
+            {
+                nums[i] = i;
+            }
+
+            for(int j = 0; j < nums.Length; j++ )
+            {
+                Console.WriteLine("El valor del indice {0} es {1}", j, nums[j]); 
+
+            }
             Console.Read();
         }
     }

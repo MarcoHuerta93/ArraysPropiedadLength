@@ -1,9 +1,16 @@
 ﻿<Properties StartupConfiguration="{AA660191-8984-40D9-8454-AE7BDC023242}|Default">
-  <MonoDevelop.Ide.ItemProperties.ArraysPropiedadLength FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ArraysPropiedadLength PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ArraysPropiedadLength/Program.cs">
     <Files>
-      <File FileName="ArraysPropiedadLength/Program.cs" Line="1" Column="1" />
+      <File FileName="ArraysPropiedadLength/Program.cs" Line="39" Column="43" />
     </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ArraysPropiedadLength" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
